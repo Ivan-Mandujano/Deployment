@@ -1,0 +1,46 @@
+sintoma1,sintoma2,sintoma3,sintoma4,enfermedad
+Tos,Fiebre,Dolor muscular,Cansancio,gripe
+Tos,Fiebre,Dolor de garganta,Congestión nasal,resfriado
+Tos,Fiebre,Dificultad para respirar,Temperatura alta,COVID-19
+Sibilancias,Dificultad para respirar,Disnea,Dolor torácico,asma
+Dolor de cabeza intenso,Náuseas,Vómitos,Irritabilidad,migraña
+Diarrea,Dolor abdominal,Náuseas,Vómitos,gastroenteritis
+Dolor al orinar,Ardor al orinar,Infección urinaria,Orina turbia,Infección urinaria
+Sentimientos de nerviosismo, Inquietud, Pánico, Fatiga, ansiedad
+Sentimientos de tristeza,Desesperanza,Pérdida de interés en las actividades,Falta de energía,depresión
+Cambios extremos en el estado de ánimo,Manía (euforia),Depresión,Ansiedad,trastorno bipolar
+Alucinaciones,Delirios,Pensamientos desorganizados,Dificultad para concentrarse,esquizofrenia
+Diarrea,Hinchazón,Fatiga,Pérdida de peso,enfermedad celíaca
+Dolor abdominal,Diarrea,Pérdida de peso,Fiebre,enfermedad de Crohn
+Acidez estomacal,Regurgitación de alimentos o ácido,Dolor de garganta,Tos,reflujo gastroesofágico (GERD)
+Dolor abdominal,Acidez estomacal,Náuseas,Vómitos,úlcera péptica
+Secreción vaginal,Secreción uretral,Dolor al orinar,Dolor durante las relaciones sexuales,clamidia
+Secreción vaginal,Secreción uretral,Dolor al orinar,Dolor durante las relaciones sexuales,gonorrea
+Ampollas dolorosas en los genitales,Picazón en los genitales,Dolor al orinar,Dolor durante las relaciones sexuales,herpes genital
+Fatiga,Fiebre,Pérdida de peso,Inflamación de los ganglios linfáticos,VIH/SIDA
+Pérdida de memoria,Dificultad para pensar y razonar,Cambios en la personalidad,Cambios en el comportamiento,Alzheimer
+Dolor,Inflamación en las articulaciones,Rigidez en las articulaciones,Fatiga,artritis reumatoide
+Aumento de la sed,Micción frecuente,Hambre extrema,Pérdida de peso sin intentarlo,diabetes
+Dolor de pecho,Dificultad para respirar,Fatiga,Desmayos,enfermedad cardíaca
+Dificultad para respirar,Tos persistente,Sibilancias,Producción de moco,enfermedad pulmonar obstructiva crónica (EPOC)
+Temblores,Rigidez,Lentitud de movimiento,Problemas de equilibrio y coordinación,enfermedad de Parkinson
+Debilidad,Entumecimiento u hormigueo,Problemas de visión,Problemas de equilibrio y coordinación,esclerosis múltiple
+Presión arterial alta,Dolor de cabeza,Mareos,Visión borrosa,hipertensión arterial
+Debilidad o entumecimiento repentino en la cara o brazo o pierna,Dificultad para hablar,Caída de un lado del cuerpo,Parálisis facial,infarto cerebral
+Debilitamiento de los huesos,Aumento del riesgo de fracturas,Dolor de espalda,Dolor en las articulaciones,osteoporosis
+Pérdida de peso,Cambios en el apetito,Sangrado anormal,Cambios en la piel,cáncer
+Tos,Malestar general,Dolores musculares y articulares,Fiebre,gripe
+Estornudos,Ojos llorosos,Mucosidad espesa,Dolor de cabeza leve,resfriado
+Pérdida del gusto o el olfato,Fatiga extrema,Dolor de pecho,Confusión,COVID-19
+Opresión en el pecho,Tos persistente,Sibilancias durante la exhalación,Dificultad para respirar,asma
+Sensibilidad a la luz,Sensibilidad al sonido,Mareos,Visión borrosa,migraña
+Fiebre,Pérdida de apetito,Deshidratación,Heces con sangre,gastroenteritis
+Necesidad frecuente de orinar,Orina turbia o con olor fuerte,Dolor en la parte baja de la espalda,Dolor al orinar,infección urinaria
+Fiebre alta,Dolor muscular y articular,Náuseas,Vómitos,dengue
+Fiebre,Escalofríos,Dolor muscular y articular,Fatiga,malaria
+Tos persistente,Fiebre,Pérdida de peso,Sudores nocturnos,tuberculosis
+Ictericia,Vómitos,Orina oscura,Picazón en la piel,hepatitis A
+Ictericia,Vómitos,Orina oscura,Heces pálidas,hepatitis B
+Fatiga,Vómitos,Orina oscura,Ictericia,hepatitis C
+Diarrea,Candidiasis oral,Fiebre,Pérdida de peso,VIH/SIDA
+Erupción cutánea en forma de diana,Fiebre,Dolor de cabeza,Dolor muscular y articular,enfermedad de Lyme

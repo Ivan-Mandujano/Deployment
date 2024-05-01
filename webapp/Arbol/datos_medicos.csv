@@ -1,0 +1,182 @@
+sintoma,enfermedad
+Tos,gripe
+Fiebre,gripe
+dolor muscular,gripe
+Cansancio,gripe
+Tos,resfriado
+Fiebre,resfriado
+Dolor de garganta,resfriado
+Congestion nasal,resfriado
+Tos,COVID-19
+Fiebre,COVID-19
+Dificultad para respirar,COVID-19
+Temperatura alta, COVID-19
+Sibilancias,asma
+Dificultad para respirar,asma
+Disnea, asma
+Dolor torácico, asma
+Dolor de cabeza intenso,migraña
+Náuseas,migraña
+Vómitos,migraña
+Irritabilidad, migraña
+Diarrea,gastroenteritis
+Dolor abdominal,gastroenteritis
+Náuseas,gastroenteritis
+Vómitos,gastroenteritis
+Dolor al orinar,infección urinaria
+Ardor al orinar,infección urinaria
+Infección urinaria,infección urinaria
+Sentimientos de nerviosismo, ansiedad
+Inquietud, ansiedad
+Pánico, ansiedad
+Sentimientos de tristeza, depresión
+Desesperanza, depresión
+Pérdida de interés en las actividades, depresión
+Cambios extremos en el estado de ánimo, trastorno bipolar
+Manía (euforia), trastorno bipolar
+Depresión, trastorno bipolar
+Alucinaciones, esquizofrenia
+Delirios, esquizofrenia
+Pensamientos desorganizados, esquizofrenia
+Diarrea, enfermedad celíaca
+Hinchazón, enfermedad celíaca
+Fatiga, enfermedad celíaca
+Pérdida de peso, enfermedad celíaca
+Dolor abdominal, enfermedad de Crohn
+Diarrea, enfermedad de Crohn
+Pérdida de peso, enfermedad de Crohn
+Fiebre, enfermedad de Crohn
+Acidez estomacal, reflujo gastroesofágico (GERD)
+Regurgitación de alimentos o ácido, reflujo gastroesofágico (GERD)
+Dolor de garganta, reflujo gastroesofágico (GERD)
+Dolor abdominal, úlcera péptica
+Acidez estomacal, úlcera péptica
+Náuseas, úlcera péptica
+Vómitos, úlcera péptica
+Secreción vaginal, clamidia
+Secreción uretral, clamidia
+Dolor al orinar, clamidia
+Dolor durante las relaciones sexuales, clamidia
+Secreción vaginal, gonorrea
+Secreción uretral, gonorrea
+Dolor al orinar, gonorrea
+Dolor durante las relaciones sexuales, gonorrea
+Ampollas dolorosas en los genitales, herpes genital
+Fatiga, VIH/SIDA
+Fiebre, VIH/SIDA
+Pérdida de peso, VIH/SIDA
+Inflamación de los ganglios linfáticos, VIH/SIDA
+Pérdida de memoria, Alzheimer
+Dificultad para pensar y razonar, Alzheimer
+Cambios en la personalidad, Alzheimer
+Cambios en el comportamiento, Alzheimer
+Dolor, artritis reumatoide
+Inflamación en las articulaciones, artritis reumatoide
+Rigidez en las articulaciones, artritis reumatoide
+Aumento de la sed, diabetes
+Micción frecuente, diabetes
+Hambre extrema, diabetes
+Pérdida de peso sin intentarlo, diabetes
+Dolor de pecho, enfermedad cardíaca
+Dificultad para respirar, enfermedad cardíaca
+Fatiga, enfermedad cardíaca
+Desmayos, enfermedad cardíaca
+Dificultad para respirar, enfermedad pulmonar obstructiva crónica (EPOC)
+Tos persistente, enfermedad pulmonar obstructiva crónica (EPOC)
+Sibilancias, enfermedad pulmonar obstructiva crónica (EPOC)
+Producción de moco, enfermedad pulmonar obstructiva crónica (EPOC)
+Temblores, enfermedad de Parkinson
+Rigidez, enfermedad de Parkinson
+Lentitud de movimiento, enfermedad de Parkinson
+Problemas de equilibrio y coordinación, enfermedad de Parkinson
+Fatiga, esclerosis múltiple
+Debilidad, esclerosis múltiple
+Entumecimiento u hormigueo, esclerosis múltiple
+Problemas de visión, esclerosis múltiple
+Problemas de equilibrio y coordinación, esclerosis múltiple
+Presión arterial alta, hipertensión arterial
+Debilidad o entumecimiento repentino en la cara, infarto cerebral
+Debilidad o entumecimiento repentino en el brazo, infarto cerebral
+Debilidad o entumecimiento repentino en la pierna, infarto cerebral
+Dificultad para hablar, infarto cerebral
+Problemas para comprender el habla, infarto cerebral
+Caída de un lado del cuerpo, infarto cerebral
+Debilitamiento de los huesos, osteoporosis
+Aumento del riesgo de fracturas, osteoporosis
+Fatiga, cáncer
+Pérdida de peso, cáncer
+Cambios en el apetito, cáncer
+Sangrado anormal, cáncer
+Bultos o protuberancias, cáncer
+Cambios en la piel, cáncer
+Tos seca, gripe
+Tos con flema, gripe
+Tos perruna, gripe
+Tos persistente, gripe
+Malestar general, gripe
+Dolores musculares y articulares, gripe
+Estornudos, resfriado
+Ojos llorosos, resfriado
+Mucosidad espesa, resfriado
+Dolor de cabeza leve, resfriado
+Pérdida del gusto o el olfato, COVID-19
+Fatiga extrema, COVID-19
+Dolor de pecho, COVID-19
+Confusión, COVID-19
+Opresión en el pecho, asma
+Tos persistente, asma
+Sibilancias durante la exhalación, asma
+Sensibilidad a la luz, migraña
+Sensibilidad al sonido, migraña
+Mareos, migraña
+Visión borrosa, migraña
+Fiebre, gastroenteritis
+Pérdida de apetito, gastroenteritis
+Deshidratación, gastroenteritis
+Heces con sangre, gastroenteritis
+Necesidad frecuente de orinar, infección urinaria
+Orina turbia o con olor fuerte, infección urinaria
+Dolor en la parte baja de la espalda, infección urinaria
+Fiebre alta, dengue
+Dolor muscular y articular, dengue
+Erupción cutánea, dengue
+Náuseas, dengue
+Vómitos, dengue
+Fiebre, malaria
+Escalofríos, malaria
+Sudoración, malaria
+Dolor muscular y articular, malaria
+Fatiga, malaria
+Tos persistente, tuberculosis
+Fiebre, tuberculosis
+Pérdida de peso, tuberculosis
+Fatiga, tuberculosis
+Sudores nocturnos, tuberculosis
+Fatiga, hepatitis A
+Náuseas, hepatitis A
+Vómitos, hepatitis A
+Dolor abdominal, hepatitis A
+Orina oscura, hepatitis A
+Heces pálidas, hepatitis A
+Picazón en la piel, hepatitis A
+Fatiga, hepatitis B
+Náuseas, hepatitis B
+Vómitos, hepatitis B
+Dolor abdominal, hepatitis B
+Orina oscura, hepatitis B
+Heces pálidas, hepatitis B
+Ictericia, hepatitis B
+Fatiga, hepatitis C
+Náuseas, hepatitis C
+Vómitos, hepatitis C
+Dolor abdominal, hepatitis C
+Orina oscura, hepatitis C
+Heces pálidas, hepatitis C
+Ictericia, hepatitis C
+Diarrea, VIH/SIDA
+Candidiasis oral, VIH/SIDA
+Erupción cutánea en forma de diana, enfermedad de Lyme
+Fiebre, enfermedad de Lyme
+Dolor de cabeza, enfermedad de Lyme
+Fatiga, enfermedad de Lyme
+Dolor muscular y articular, enfermedad de Lyme
